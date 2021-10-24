@@ -1,0 +1,67 @@
+a{
+ text-decoration: none;
+ color: white ;
+ font-family: 'Lobster', cursive;
+} 
+.index{
+ background-color: #F15156;
+  height: 50px;
+  width: 100%;
+}
+ 
+
+.founder
+{
+  color:saddlebrown;
+   font-family: 'Stick No Bills', sans-serif;
+
+}
+img 
+{
+  size: 800px;
+}
+.totop
+{
+  text-align-last: center;
+}
+.contact{
+ background-color: #F15156;
+  height: 50px;
+  width: 100%;
+}
+body{
+ background-color: #FFCF99;
+ width: 100%;
+ height: 4em calc(4em - 50px);
+}
+.title
+{
+ color:#A5402D;
+ font-family: 'Stick No Bills', sans-serif; ;
+}
+.para
+{
+ width: 50%;
+ font-family: 'Rajdhani', sans-serif;
+}
+.elontext
+{
+  font-family: 'Rajdhani', sans-serif;
+}
+.box
+{
+ background-color: #721121;
+ 
+ width: 100%;
+ height: 4em;
+}
+.copyright
+{
+ font-family: 'Rajdhani', sans-serif;
+  color: white;
+  text-align-last: center;
+}
+.links
+{
+  color: #A5402D;
+}
